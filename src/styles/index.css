@@ -1,0 +1,21 @@
+/* 
+    General Styles
+*/
+.box-animated h1{
+    font-size: 8rem;
+    text-align: center;
+    width: 50%;
+    align-content: center;
+    margin: 400px auto;
+}
+body{
+    background-color: black;
+    background-image: url(https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fHN0YXIlMjB3YXJzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.card:hover{
+    box-shadow: 5px 10px 20px 1px white;
+    transition: all 0.7s linear;
+}
+
